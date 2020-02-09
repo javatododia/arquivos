@@ -1,6 +1,6 @@
 package com.javatododia;
 
-public class BufferProblem {
+public class ReadFileUsingJava7 {
 
     public static void main(String[] args) {
 
